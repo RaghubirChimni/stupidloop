@@ -1,8 +1,8 @@
-// @author rugger
+// @author Raghubir Chimni
 // @version 1.0 11/24/18
 
 import java.util.*;
-public class Main {
+public class Simple {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     String s = "";
