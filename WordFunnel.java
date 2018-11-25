@@ -1,4 +1,5 @@
-
+// @author Raghubir Chimni
+// @version 1.0 11/24/18
 
 import java.util.*;
 public class WordFunnel {
