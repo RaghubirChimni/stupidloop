@@ -1,6 +1,6 @@
 //@author Raghubir Chimni
 // @version 11/24/2018
-
+import java.util.*;
 public class DecimalToBinary {
   public static void main(String[] args)
   {
